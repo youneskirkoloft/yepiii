@@ -1,0 +1,48 @@
+{
+  "bot-account": {
+    "username": "khob-kir", 
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "kirkoloft.aternos.me", 
+    "port": 41397,   
+    "version": "1.12.1"   
+  },
+  
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "man kir mikham",
+        "i love kir",
+        "man kir mikham"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
